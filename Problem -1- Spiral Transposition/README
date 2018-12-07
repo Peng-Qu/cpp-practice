@@ -20,10 +20,11 @@ Task: We need a recursive function to print out the 2D-array "spiral by spiral" 
       recursive function, we need to understand how the printing is being done.
       
     Steps of the printing:
-    Step 1) Start at [0][0]. Print the entries of the first row from left to right until it hits [0][n-1]
-    Step 2) Print the entries down the column from [0][n-1] to [m-1][n-1] which is the bottom right corner
-    Step 3) Print the entries across the bottom row, from [m-1][n-1] to [m-1][0] which is the bottom left corner
-    Step 4) Print the entries up the first column until it hits [1][0], which is one entry below the starting point.
+    Step 1) Start at left upper corner [0][0]. Print the entries of the first row from left to right until right upper corner [0][n-1]
+    Step 2) Start at [1][n-1] (one entry below right upper corner). Print down until to [m-1-1][n-1] which is one entry 
+            above right bottom corner
+    Step 3) Print the entries across the bottom row. Start at right bottom corner. Print until [m-1][0] which is the bottom left corner
+    Step 4) Print from one entry above left bottom corner until [1][0], which is one entry below the starting point.
     This prints out the outermost circle. Then we repeat step 1 - 4 to print the next circle inside which is smaller.
     
     Second cycle:

@@ -1,3 +1,4 @@
+## Word Search Puzzle
 The game Word Search Puzzle presents a grid of seemingly random letters and a set of words. The goal is to find and mark all the words hidden with a grid of letters, along straight lines in three directions:
 
 horizontal: from left to right

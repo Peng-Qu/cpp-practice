@@ -1,1 +1,63 @@
-
+Please choose one of the followings:
+0. Quit the program
+1. Add a word
+2. Print the puzzle
+3. Complete the puzzle
+1
+Enter a word: eleven
+Enter the position (row col): 0 0
+Enter the direction (0:horizontal, 1:vertical, 2:diagonal): 2
+Please choose one of the followings:
+0. Quit the program
+1. Add a word
+2. Print the puzzle
+3. Complete the puzzle
+2
+e
+_,l
+_,_,e
+_,_,_,v
+_,_,_,_,e
+_,_,_,_,_,n
+Please choose one of the followings:
+0. Quit the program
+1. Add a word
+2. Print the puzzle
+3. Complete the puzzle
+1
+Enter a word: four
+Enter the position (row col): 1 0
+Enter the direction (0:horizontal, 1:vertical, 2:diagonal): 1
+Please choose one of the followings:
+0. Quit the program
+1. Add a word
+2. Print the puzzle
+3. Complete the puzzle
+2
+e
+f,l
+o,_,e
+u,_,_,v
+r,_,_,_,e
+_,_,_,_,_,n
+Please choose one of the followings:
+0. Quit the program
+1. Add a word
+2. Print the puzzle
+3. Complete the puzzle
+1
+Enter a word: seven
+Enter the position (row col): 5 1
+Enter the direction (0:horizontal, 1:vertical, 2:diagonal): 0
+Please choose one of the followings:
+0. Quit the program
+1. Add a word
+2. Print the puzzle
+3. Complete the puzzle
+2
+e
+f,l
+o,_,e
+u,_,_,v
+r,_,_,_,e
+_,s,e,v,e,n

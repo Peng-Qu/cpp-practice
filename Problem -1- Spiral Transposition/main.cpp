@@ -6,7 +6,7 @@
 #include <iostream>
 using namespace std;
 
-const int MAX_SIZE = 20;		//maximum size of row and column
+const int MAX_SIZE = 20;//maximum size of row and column
 
 void recursion (int array[][MAX_SIZE], const int m, const int n, int cycle){
 	//recursive call
@@ -20,19 +20,19 @@ void recursion (int array[][MAX_SIZE], const int m, const int n, int cycle){
 	for (int row = cycle; row < m-cycle; row++){
 		cout << "| " << array[row][n-cycle] << " ";
 	}
-	//avoid printing the same column twice in the last spiral of vertical rectangle
-	//or same row twice in the last spiral of horizontal rectangle
-	if(array[cycle-1][cycle-1] == array[cycle-1][n-cycle] ||
-			array[cycle-1][cycle-1] == array[m-cycle][cycle-1]){
-		return;
-	}
 	//print across the lower row of the spiral
-	for (int col = n-cycle; col > cycle-2; col--){
-			cout << "| " << array[m-cycle][col] << " ";
+	//avoid printing the same row twice in the innermost spiral of horizontal rectangle
+	if(array[cycle-1][cycle-1] != array[m-cycle][cycle-1]){
+		for (int col = n-cycle; col > cycle-2; col--){
+				cout << "| " << array[m-cycle][col] << " ";
+		}
 	}
 	//print up the LHS column of the spiral
-	for (int row = m-1-cycle; row > cycle-1; row--){
-		cout << "| " << array[row][cycle-1] << " ";
+	//avoid printing the same col twice in the innermost spiral of vertical rectangle
+	if(array[cycle-1][cycle-1] != array[cycle-1][n-cycle]){
+		for (int row = m-1-cycle; row > cycle-1; row--){
+			cout << "| " << array[row][cycle-1] << " ";
+		}
 	}
 }
 

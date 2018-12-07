@@ -37,7 +37,7 @@ Task: We need a recursive function to print out the 2D-array "spiral by spiral" 
     At this moment, the header of the function may look like this:
                   void recursion (int array [][], int m, int n, int cycle)
     The argument cycle is for determining the size of the circle since everytime we call the next recursion the circle will be
-    1 unit smaller on each side.
+    2 unit smaller on each side.
     
     The last problem that needs to be dealt with is to determine how many repetition we need to print out all the spiral. For 
     square matrix, it is very intuitive.

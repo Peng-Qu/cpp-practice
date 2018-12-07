@@ -1,1 +1,45 @@
+This problem involves the use of 2D array and recursion.
 
+Description for the meaning of "Spiral Transposition":
+https://edabit.com/challenge/jZkyy7tgMoQFJ3QgL
+
+The below informations are divided into 3 parts:
+Part 1: Flow of the program
+Part 2: Logic of the recursive function to print out the 2D-array
+Part 3: Solutions to potential problems in the recursive function
+Actual implementation will be documented in another file
+
+Part 1:
+a) takes in 2 integers which represent the number of rows and columns of the 2D-array
+b) takes in the entries of the 2D-array "row by row"
+c) print out the entries linearly according to spiral transposition, i.e. in one row
+
+Part 2:
+Task: We need a recursive function to print out the 2D-array "spiral by spiral" (a spiral is a clockwise circle around the array).
+      We would like to start from the outermost spiral and end at the innermost spiral
+
+    Framework of the recursive function:
+    void recursion (int array[m][n], int m, int n, int cycle)
+    The function takes in the 2D-array that we created at the beginning, as well as the length of rows and columns. The argument
+    cycle is the number of times the recursive function has been gone through. So, the 1st call of cycle should be 0.
+    
+    Steps of the recursion:
+    Step 1) Start from array [cycle][cycle]. Print the entries of the first row from left to right until it hits [cycle][n-1-cycle]
+    Step 2) Print the entries down the column from [cycle][n-1-cycle] to [m-1-cycle][n-1-cycle] which is the bottom right corner
+    Step 3) Print the entries across the bottom row, from [m-1-cycle][n-1-cycle] to [m-1-cycle][cycle] which is the bottom left corner
+    Step 4) Print the entries up the first column until it hits [cycle+1][cycle], which is one entry below the starting point.
+    Step 5) Recursive call, repeat step 1 to 4 by starting at entry [cycle+1][cycle+1]. Notice that the starting point is always at the 
+            diagonal entries [1][1], [2][2]......
+            
+Part 3:            
+    Step 1 to 4 can print one complete square. However, not all 2D-array is a square matrix. If the 2D-array is a rectangle, 
+    the last spiral will be printed out w/o completing the whole 4-step-cycle. We need a conditional statement to check against 
+    those kind of situations, otherwise, the entries in the last spiral will be printed out TWICE. For example, for a rectangle 
+    in portrait position (vertical), Step 2 and 4 will repeat the same entries. For landscape position (horizontal), Step 1 and 3 
+    will repeat the same entries.
+    
+    To solve this, the conditional statement can be as follow:
+    Case 1 (vertical rectangle): in Step 1, if [cycle][cycle] == [cycle][n-1-cycle], then only do step 2 and that recursion is finished
+    Case 2 (horizontal rectangle): in Step 2, if [cycle][n-1-cycle] == [m-1-cycle][n-1-cycle], that recursion is already finished.
+    
+End

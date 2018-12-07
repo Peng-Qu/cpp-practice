@@ -6,15 +6,15 @@ https://edabit.com/challenge/jZkyy7tgMoQFJ3QgL
 The below informations are divided into 3 parts:
 Part 1: Flow of the program
 Part 2: Logic of the recursive function to print out the 2D-array
-Part 3: Solutions to potential problems in the recursive function
+Part 3: Potential problems in the recursive function
 Actual implementation will be documented in another file
 
-Part 1:
+Part 1 (Flow of the program):
 a) takes in 2 integers which represent the number of rows and columns of the 2D-array
 b) takes in the entries of the 2D-array "row by row"
 c) print out the entries linearly according to spiral transposition, i.e. in one row
 
-Part 2:
+Part 2 (Logic of the recursive function to print out the 2D-array):
 Task: We need a recursive function to print out the 2D-array "spiral by spiral" (a spiral is a clockwise circle around the array).
       We would like to print from the outermost spiral and to the innermost spiral. Before we move on to the the logic of the
       recursive function, we need to understand how the printing is being done.
@@ -49,18 +49,18 @@ Task: We need a recursive function to print out the 2D-array "spiral by spiral" 
     Conclusion: The number of cycles needed is the quotient of (n+1)/2
     
     However, if it is a rectangular matrix, the rule above will be irrelevant. We need a more general rule to determine the
-    cycles needed.
+    cycles needed, which is the number of entries in the diagonal (entry 00, 11, 22...)
     
+    Now, we have all the informations needed to construct the recursive function.
     
-Part 3:            
+Part 3 (Potential problems in the recursive function):            
     Step 1 to 4 can print one complete square. However, not all 2D-array is a square matrix. If the 2D-array is a rectangle, 
     the last spiral will be printed out w/o completing the whole 4-step-cycle. We need a conditional statement to check against 
     those kind of situations, otherwise, the entries in the last spiral will be printed out TWICE. For example, for a rectangle 
     in portrait position (vertical), Step 2 and 4 will repeat the same entries. For landscape position (horizontal), Step 1 and 3 
     will repeat the same entries.
     
-    To solve this, the conditional statement can be as follow:
-    Case 1 (vertical rectangle): in Step 1, if [cycle][cycle] == [cycle][n-1-cycle], then only do step 2 and that recursion is finished
-    Case 2 (horizontal rectangle): in Step 2, if [cycle][n-1-cycle] == [m-1-cycle][n-1-cycle], that recursion is already finished.
-    
+    To solve this, a general guidance is that we can add a conditional statement after Step 1 and 2, which states that we will
+    exit that recursion if it is either a vertical or a horizontal rectangle
+       
 End

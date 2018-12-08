@@ -47,7 +47,7 @@ At this moment, the header of the function may look like this:
 
             void recursion (int array [][], int m, int n, int cycle)
 The argument cycle is for determining the size of the circle since everytime we call the next recursion the circle will be
-2 unit smaller on each side.
+2 units longer on each side.
 
 The last problem that needs to be dealt with is to determine how many repetition we need to print out all the spiral. For 
 square matrix, it is very intuitive.
@@ -69,12 +69,13 @@ Now, we have all the informations needed to construct the recursive function.
 ### Part 3 (Potential problems in the recursive function):
 
 Step 1 to 4 can print one complete square. However, not all 2D-array is a square matrix. If the 2D-array is a rectangle, 
-the last spiral will be printed out w/o completing the whole 4-step-cycle. We need a conditional statement to check against 
+the last spiral will be printed out w/o completing the whole 4-step-cycle. We need an if-statement to check against 
 those kind of situations, otherwise, the entries in the last spiral will be printed out TWICE. For example, for a rectangle 
 in portrait position (vertical), Step 2 and 4 will repeat the same entries. For landscape position (horizontal), Step 1 and 3 
 will repeat the same entries.
 
-To solve this, a general guidance is that we can add a conditional statement after Step 1 and 2, which states that we will
-exit that recursion if it is either a vertical or a horizontal rectangle
+To solve this, a general guideline is that we can add an if-statement when printing Step 3 and 4, where the conditional statement will
+be "if for this recursive step, the top left corner and top right corner is the same, it implies this spiral is a vertical straight 
+line and so we dont need Step 3". Similar for step 4.
        
 End

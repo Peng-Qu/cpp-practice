@@ -44,4 +44,4 @@ If the input is invalid (input < 0 or input > 3), the program will give a warnin
 
 Invalid option, please enter again:
 ## Sample output
-Refer to sample-output.txt
+Refer to [sample-output.txt](https://github.com/hdb30/cpp-practice/blob/master/Problem-2-Word-Search-puzzle/Sample-output.txt)

@@ -1,4 +1,7 @@
+Acknowledgement: This is a lab assignment for HKUST COMP2011 Introduction to object-oriented programming 2018 Fall Semester.
+
 ## Word Search Puzzle
+### Rules of the game
 The game Word Search Puzzle presents a grid of seemingly random letters and a set of words. The goal is to find and mark all the words hidden with a grid of letters, along straight lines in three directions:
 
 horizontal: from left to right
@@ -12,9 +15,9 @@ You can find the word "eleven" in the diagonal direction, the word "four" in the
 
 ![word_puzzle_2](https://user-images.githubusercontent.com/42372844/49652680-b9c6e880-fa6d-11e8-962b-17a6fb1fb8cf.PNG)
 
-## THE FLOW OF THE PROGRAM
+### THE FLOW OF THE PROGRAM
 
-When the program runs, it will firstly ask you to input size of the puzzle.
+When the program runs, it will firstly ask you to input size of the puzzle which is the height of it.
 
 ## 
 ----- Create Your Word Puzzles -----
@@ -38,6 +41,7 @@ Please choose one of the followings:
 If the input is invalid (input < 0 or input > 3), the program will give a warning message and ask for another input until the input is valid.
 ##
 6
+
 Invalid option, please enter again:
 ## Sample output
 Refer to sample-output.txt

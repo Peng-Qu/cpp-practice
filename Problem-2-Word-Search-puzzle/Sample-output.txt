@@ -93,30 +93,3 @@ o,_,e
 u,_,_,v
 r,t,w,o,e
 _,s,e,v,e,n
-
-Please choose one of the followings:
-0. Quit the program
-1. Add a word
-2. Print the puzzle
-3. Complete the puzzle
-1
-Enter a word: two
-Enter the position (row col): 3 1
-Enter the direction (0:horizontal, 1:vertical, 2:diagonal): 0
-Invalid add! Please enter again.
-Enter a word: two
-Enter the position (row col): 4 1
-Enter the direction (0:horizontal, 1:vertical, 2:diagonal): 0
-
-Please choose one of the followings:
-0. Quit the program
-1. Add a word
-2. Print the puzzle
-3. Complete the puzzle
-2
-e
-f,l
-o,_,e
-u,_,_,v
-r,t,w,o,e
-_,s,e,v,e,n

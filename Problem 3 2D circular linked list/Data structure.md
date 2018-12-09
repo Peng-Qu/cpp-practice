@@ -21,5 +21,5 @@ The keyword auto and goto.
 Any static variable (i.e. using "static" keyword).
 Any extra libraries.
 
-#Acknowledgement
+# Acknowledgement
 HKUST COMP2011 2018 Fall Assignment

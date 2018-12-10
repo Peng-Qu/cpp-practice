@@ -135,3 +135,6 @@ There are also a few edge cases to handle:
 It has to be a single statement, meaning only a single semicolon, i.e. code_statement; so no cheating by just removing all the newlines. 
 
 This single line of code **CAN** be a single function call. However, as stated at the beginning, you are also NOT allowed to define your own helper functions.
+
+# Acknowledgement
+HKUST COMP2012H Honors Object-Oriented Programming and Data Structures 2018 Fall Lab 4 Assignment

@@ -1,0 +1,1164 @@
+Note that it is normal for the red Error messages (if you view them in Eclipse) to be not synchronized with the rest of the output.
+
+One ArrayList with variable name arrayList and default 0 arraySize has been created for you to test.
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+ArrayList is empty!
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 0
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 0
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 6
+Index: 0
+Data: 10
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 1
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 1
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 6
+Index: 0
+Data: 20
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+20 10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 2
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 2
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 6
+Index: 0
+Data: 30
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+30 20 10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 3
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 6
+Index: 0
+Data: 40
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+40 30 20 10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 5
+Index: 2
+Data: 99
+arrayList[2] = 99
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+40 30 99 10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 7
+Index: 1
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+40 99 10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 3
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 7
+Index: 1
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+40 10 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 2
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 4
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 7
+Index: 1
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+40 
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 1
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 2
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 9
+N: 10
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+40 0 1 2 3 4 5 6 7 8 9
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: R
+Resize Array Test:
+Insertion Resize Test:
+0 
+arraySize == 1
+expectedSize == 1
+Sub-Test 1 Success? true
+
+0 1 
+arraySize == 2
+expectedSize == 2
+Sub-Test 2 Success? true
+
+0 1 2 
+arraySize == 4
+expectedSize == 4
+Sub-Test 3 Success? true
+
+0 1 2 3 
+arraySize == 4
+expectedSize == 4
+Sub-Test 4 Success? true
+
+0 1 2 3 4 
+arraySize == 8
+expectedSize == 8
+Sub-Test 5 Success? true
+
+0 1 2 3 4 5 
+arraySize == 8
+expectedSize == 8
+Sub-Test 6 Success? true
+
+0 1 2 3 4 5 6 
+arraySize == 8
+expectedSize == 8
+Sub-Test 7 Success? true
+
+0 1 2 3 4 5 6 7 
+arraySize == 8
+expectedSize == 8
+Sub-Test 8 Success? true
+
+0 1 2 3 4 5 6 7 8 
+arraySize == 16
+expectedSize == 16
+Sub-Test 9 Success? true
+
+0 1 2 3 4 5 6 7 8 9 
+arraySize == 16
+expectedSize == 16
+Sub-Test 10 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 
+arraySize == 16
+expectedSize == 16
+Sub-Test 11 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 
+arraySize == 16
+expectedSize == 16
+Sub-Test 12 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+arraySize == 16
+expectedSize == 16
+Sub-Test 13 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 
+arraySize == 16
+expectedSize == 16
+Sub-Test 14 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+arraySize == 16
+expectedSize == 16
+Sub-Test 15 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+arraySize == 16
+expectedSize == 16
+Sub-Test 16 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+arraySize == 32
+expectedSize == 32
+Sub-Test 17 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+arraySize == 32
+expectedSize == 32
+Sub-Test 18 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+arraySize == 32
+expectedSize == 32
+Sub-Test 19 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+arraySize == 32
+expectedSize == 32
+Sub-Test 20 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+arraySize == 32
+expectedSize == 32
+Sub-Test 21 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+arraySize == 32
+expectedSize == 32
+Sub-Test 22 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+arraySize == 32
+expectedSize == 32
+Sub-Test 23 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+arraySize == 32
+expectedSize == 32
+Sub-Test 24 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+arraySize == 32
+expectedSize == 32
+Sub-Test 25 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+arraySize == 32
+expectedSize == 32
+Sub-Test 26 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+arraySize == 32
+expectedSize == 32
+Sub-Test 27 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+arraySize == 32
+expectedSize == 32
+Sub-Test 28 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+arraySize == 32
+expectedSize == 32
+Sub-Test 29 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+arraySize == 32
+expectedSize == 32
+Sub-Test 30 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+arraySize == 32
+expectedSize == 32
+Sub-Test 31 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+arraySize == 32
+expectedSize == 32
+Sub-Test 32 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 
+arraySize == 64
+expectedSize == 64
+Sub-Test 33 Success? true
+
+Removal Resize Test:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 
+arraySize == 64
+expectedSize == 64
+Sub-Test 32 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 
+arraySize == 64
+expectedSize == 64
+Sub-Test 31 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 
+arraySize == 64
+expectedSize == 64
+Sub-Test 30 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 
+arraySize == 64
+expectedSize == 64
+Sub-Test 29 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+arraySize == 64
+expectedSize == 64
+Sub-Test 28 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+arraySize == 64
+expectedSize == 64
+Sub-Test 27 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 
+arraySize == 64
+expectedSize == 64
+Sub-Test 26 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+arraySize == 64
+expectedSize == 64
+Sub-Test 25 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+arraySize == 64
+expectedSize == 64
+Sub-Test 24 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 
+arraySize == 64
+expectedSize == 64
+Sub-Test 23 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 
+arraySize == 64
+expectedSize == 64
+Sub-Test 22 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+arraySize == 64
+expectedSize == 64
+Sub-Test 21 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 
+arraySize == 64
+expectedSize == 64
+Sub-Test 20 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 
+arraySize == 64
+expectedSize == 64
+Sub-Test 19 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
+arraySize == 64
+expectedSize == 64
+Sub-Test 18 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+arraySize == 64
+expectedSize == 64
+Sub-Test 17 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+arraySize == 32
+expectedSize == 32
+Sub-Test 16 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 
+arraySize == 32
+expectedSize == 32
+Sub-Test 15 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 
+arraySize == 32
+expectedSize == 32
+Sub-Test 14 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 12 
+arraySize == 32
+expectedSize == 32
+Sub-Test 13 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 11 
+arraySize == 32
+expectedSize == 32
+Sub-Test 12 Success? true
+
+0 1 2 3 4 5 6 7 8 9 10 
+arraySize == 32
+expectedSize == 32
+Sub-Test 11 Success? true
+
+0 1 2 3 4 5 6 7 8 9 
+arraySize == 32
+expectedSize == 32
+Sub-Test 10 Success? true
+
+0 1 2 3 4 5 6 7 8 
+arraySize == 32
+expectedSize == 32
+Sub-Test 9 Success? true
+
+0 1 2 3 4 5 6 7 
+arraySize == 16
+expectedSize == 16
+Sub-Test 8 Success? true
+
+0 1 2 3 4 5 6 
+arraySize == 16
+expectedSize == 16
+Sub-Test 7 Success? true
+
+0 1 2 3 4 5 
+arraySize == 16
+expectedSize == 16
+Sub-Test 6 Success? true
+
+0 1 2 3 4 
+arraySize == 16
+expectedSize == 16
+Sub-Test 5 Success? true
+
+0 1 2 3 
+arraySize == 8
+expectedSize == 8
+Sub-Test 4 Success? true
+
+0 1 2 
+arraySize == 8
+expectedSize == 8
+Sub-Test 3 Success? true
+
+0 1 
+arraySize == 4
+expectedSize == 4
+Sub-Test 2 Success? true
+
+0 
+arraySize == 2
+expectedSize == 2
+Sub-Test 1 Success? true
+
+ArrayList is empty!
+arraySize == 1
+expectedSize == 1
+Sub-Test 0 Success? true
+
+Test Success? true
+
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: T
+Constructor Test:
+ArrayList is empty!
+arrayList1 arraySize == 0
+arrayList1 numElements == 0
+Sub-Test 1 Success? true
+ArrayList is empty!
+arrayList2 arraySize == 10
+arrayList2 numElements == 0
+This should print 10 ArrayList Index Out of Bounds Error messages, and 10 garbage int values:
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+7484672 7477000 117440519 34289 7484672 7471296 6 7 67108868 34294 
+Sub-Test 2 Success? true
+Test Success? true
+
+Copy-Constructor Test:
+ArrayList is empty!
+arrayList1 arraySize == 10
+arrayList1 numElements == 0
+This should print 10 ArrayList Index Out of Bounds Error messages, and 10 garbage int values:
+7472432 7471296 117440519 34289 7484672 7471296 6 7 67108868 34294 
+ArrayList is empty!
+arrayList2 arraySize == 10
+arrayList2 numElements == 0
+This should print 10 ArrayList Index Out of Bounds Error messages, and 10 garbage int values:
+7500856 7471296 0 0 0 0 WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+0 0 0 0 
+Test Success? true
+
+Copy-Assignment Operator Test:
+ArrayList is empty!
+arrayList1 arraySize == 5
+arrayList1 numElements == 0
+This should print 5 ArrayList Index Out of Bounds Error messages, and 5 garbage int values:
+7472432 7471296 117440519 34289 7484672 
+ArrayList is empty!
+arrayList2 arraySize == 10
+arrayList2 numElements == 0
+This should print 10 ArrayList Index Out of Bounds Error messages, and 10 garbage int values:
+7500856 7476872 0 0 0 0 WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+0 0 0 0 
+ArrayList is empty!
+arrayList1 arraySize == 10
+arrayList1 numElements == 0
+This should print 10 ArrayList Index Out of Bounds Error messages, and 10 garbage int values:
+7472480 7471296 117440519 34289 7484672 7471296 WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+WARNING: ArrayList Index Out of Bounds!
+33554434 34295 7472480 7471296 
+Test Success? true
+
+Copy-Constructor with Elements Test:
+0 1 2 3 4 
+arrayList1 arraySize == 10
+arrayList1 numElements == 5
+0 1 2 3 4 
+arrayList2 arraySize == 10
+arrayList2 numElements == 5
+Test Success? true
+
+Copy-Assignment Operator with Elements Test:
+0 1 2 3 4 
+arrayList1 arraySize == 5
+arrayList1 numElements == 5
+0 1 2 3 4 5 6 7 8 9 
+arrayList2 arraySize == 10
+arrayList2 numElements == 10
+0 1 2 3 4 5 6 7 8 9 
+arrayList1 arraySize == 10
+arrayList1 numElements == 10
+Test Success? true
+
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 8
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 1
+ArrayList is empty!
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 2
+arrayList.numElements == 0
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: 3
+arrayList.arraySize == 0
+
+1. Print ArrayList elements
+2. Print ArrayList numElements
+3. Print ArrayList arraySize
+4. Print Element at Index
+5. Assign Element at Index
+6. Insert Element at Index
+7. Remove Element at Index
+8. Remove All Elements
+9. Quick Insert, [0, N) to end of ArrayList. Duplicates allowed.
+R. Run Resize ArrayList Test. Will not affect this arrayList.
+T. Run Constructor, Copy-Constructor, Assignment Operator Tests. Will not affect this arrayList.
+Q: Quit
+
+Please select an operation: Q
